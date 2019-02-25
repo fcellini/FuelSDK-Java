@@ -1,6 +1,6 @@
 package com.exacttarget.fuelsdk;
 
-import org.apache.commons.lang3.builder.ToStringBuilder;
+import org.apache.commons.lang.builder.ToStringBuilder;
 import org.apache.cxf.xjc.runtime.JAXBToStringStyle;
 
 import com.exacttarget.fuelsdk.ETSubscriber.Status;

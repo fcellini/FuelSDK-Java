@@ -2,7 +2,7 @@ package com.exacttarget.fuelsdk;
 
 import javax.xml.bind.annotation.XmlElement;
 
-import org.apache.commons.lang3.builder.ToStringBuilder;
+import org.apache.commons.lang.builder.ToStringBuilder;
 import org.apache.cxf.xjc.runtime.JAXBToStringStyle;
 
 import com.exacttarget.fuelsdk.annotations.ExternalName;
